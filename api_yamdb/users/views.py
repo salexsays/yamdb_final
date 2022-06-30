@@ -9,12 +9,8 @@ from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
 
 from .models import User
-from .serializers import (
-    ConfirmationCodeSerializer,
-    EmailSerializer,
-    UserMeSerializer,
-    UserSerializer,
-)
+from .serializers import (ConfirmationCodeSerializer, EmailSerializer,
+                          UserMeSerializer, UserSerializer)
 
 
 @api_view(["POST"])

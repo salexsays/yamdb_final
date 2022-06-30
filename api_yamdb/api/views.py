@@ -1,10 +1,9 @@
-from django_filters.rest_framework import DjangoFilterBackend
 from django.db.models import Avg
+from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework import filters, mixins, viewsets
 from rest_framework.generics import get_object_or_404
 from rest_framework.pagination import LimitOffsetPagination
 from reviews.models import Category, Genre, Review, Title
-
 from api.filters import TitleFilter
 from api.permissions import IsAdmin, ReadOnly, ReviewCommentPermission
 from api.serializers import (CategorySerializer, CommentSerializer,
