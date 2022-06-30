@@ -73,5 +73,3 @@ https://github.com/salexsays
 ```sh
 MIT License
 ```
-
-# main
