@@ -2,6 +2,8 @@
 ![](https://img.shields.io/badge/Django-2.2.16-green)
 ![](https://img.shields.io/badge/DjangoRestFramework-3.12.4-red)
 ![](https://img.shields.io/badge/Docker-3.8-yellow)
+<br>
+![example workflow](https://github.com/salexsays/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 <br><br>
 ## Название проекта
 **«YaMDb API»** - проект позволяет оставлять отзывы на произведения различных жанров(музыка. фильмы итд).
