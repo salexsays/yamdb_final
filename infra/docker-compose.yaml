@@ -10,7 +10,7 @@ services:
       - ./.env
 
   web:
-    build: salexsays/api_yamdb:v1
+    image: salexsays/api_yamdb:latest
     restart: always
     volumes:
       - static_value:/app/static/
