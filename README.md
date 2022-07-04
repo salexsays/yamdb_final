@@ -68,9 +68,9 @@ http://localhost/redoc/
 
 ### :small_orange_diamond: Алексей Селезнёв
 <br>
-e-mail: <salex_n@inbox.ru>
+e-mail: salex_n@inbox.ru
 <br>
-<https://github.com/salexsays>
+https://github.com/salexsays
 <br>
 
 ## :scroll: Лицензия
@@ -80,6 +80,6 @@ MIT License
 
 ### :wrench: Проект доступен по ссылке:
 <br>
-<http://salexsays.ddns.net/api/v1/>
+http://salexsays.ddns.net/api/v1/
 <br>
 84.252.139.188
