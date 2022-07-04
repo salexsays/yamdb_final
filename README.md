@@ -67,11 +67,7 @@ http://localhost/redoc/
 ## :bust_in_silhouette: Автор проекта 
 
 ### :small_orange_diamond: Алексей Селезнёв
-<br>
-e-mail: salex_n@inbox.ru
-<br>
 https://github.com/salexsays
-<br>
 
 ## :scroll: Лицензия
 ```sh
@@ -79,7 +75,6 @@ MIT License
 ```
 
 ### :wrench: Проект доступен по ссылке:
-<br>
 http://salexsays.ddns.net/api/v1/
 <br>
 84.252.139.188
