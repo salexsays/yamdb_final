@@ -18,12 +18,16 @@
 :small_blue_diamond: Python <br>
 :small_blue_diamond: Django <br>
 :small_blue_diamond: Django REST Framework <br>
+:small_blue_diamond: DRF Simple JWT <br>
 :small_blue_diamond: Docker <br>
+:small_blue_diamond: PostgreSQL <br>
+:small_blue_diamond: Gunicorn <br>
+:small_blue_diamond: Nginx <br>
 
 ## :rocket: Запуск проекта
 - Склонируйте репозиторий:
 ```sh
-git clone https://github.com/salexsays/infra_sp2.git
+git clone https://github.com/salexsays/yamdb_final.git
 ```
 - Создайте .env файл внутри директории infra:<br>
 Пример .env файла:
@@ -73,4 +77,11 @@ https://github.com/salexsays
 ```sh
 MIT License
 ```
-host
+
+### :wrench: Проект доступен по ссылке:
+```sh
+http://salexsays.ddns.net/api/v1/
+<br>
+<br>
+84.252.139.188
+```
