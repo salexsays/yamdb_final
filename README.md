@@ -56,22 +56,22 @@ docker-compose exec -ti web python manage.py loaddata fixtures.json
 docker-compose exec web python manage.py from_csv
 ```
 - Проверьте доступность сервиса:
-```sh
-http://localhost/admin
+```html
+<http://localhost/admin>
 ```
 ### :closed_book: Документация доступна по ссылке:
-```sh
-http://localhost/redoc/
+```html
+<http://localhost/redoc/>
 ```
 
 ## :bust_in_silhouette: Автор проекта 
 
 ### :small_orange_diamond: Алексей Селезнёв
 ```html
-e-mail: salex_n@inbox.ru
+e-mail: <salex_n@inbox.ru>
 ```
 ```html
-https://github.com/salexsays
+<https://github.com/salexsays>
 ```
 ## :scroll: Лицензия
 ```sh
@@ -79,9 +79,8 @@ MIT License
 ```
 
 ### :wrench: Проект доступен по ссылке:
-```sh
-http://salexsays.ddns.net/api/v1/
-<br>
-<br>
+```html
+<http://salexsays.ddns.net/api/v1/>
+
 84.252.139.188
 ```
