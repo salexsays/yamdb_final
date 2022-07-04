@@ -57,30 +57,29 @@ docker-compose exec web python manage.py from_csv
 ```
 - Проверьте доступность сервиса:
 ```html
-<http://localhost/admin>
+http://localhost/admin
 ```
 ### :closed_book: Документация доступна по ссылке:
 ```html
-<http://localhost/redoc/>
+http://localhost/redoc/
 ```
 
 ## :bust_in_silhouette: Автор проекта 
 
 ### :small_orange_diamond: Алексей Селезнёв
-```html
+<br>
 e-mail: <salex_n@inbox.ru>
-```
-```html
+<br>
 <https://github.com/salexsays>
-```
+<br>
+
 ## :scroll: Лицензия
 ```sh
 MIT License
 ```
 
 ### :wrench: Проект доступен по ссылке:
-```html
+<br>
 <http://salexsays.ddns.net/api/v1/>
-
+<br>
 84.252.139.188
-```
